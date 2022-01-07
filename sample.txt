@@ -1,2 +1,3 @@
+Developing commit
 This is master commit
 

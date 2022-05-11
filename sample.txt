@@ -2,6 +2,6 @@ Developing commit
 This is master commit
 
 f1 commit
-=======
+
 f2 committment
->>>>>>> f2
+f2
